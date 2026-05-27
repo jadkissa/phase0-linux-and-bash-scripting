@@ -17,7 +17,7 @@ echo "new data" >> secret.txt
 
 ### Try to delete (fails)
 rm secret.txt
-# Error: Operation not permitted
+### Error: Operation not permitted
 
 ### 2. Remove immutable flag
 sudo chattr -i secret.txt
