@@ -1,6 +1,6 @@
-## Exercise 3: Practice what you learned
+# Exercise 3: Practice what you learned
 
-# Create this structure:
+### Create this structure:
 
 ~/devops-lab/
 ├── projects/
@@ -16,7 +16,7 @@
 
 
 
-# Commands : 
+### Commands : 
 cd ~/devops-lab
 mkdir -p projects/web-app projects/api
 touch projects/web-app/index.html projects/web-app/style.css
