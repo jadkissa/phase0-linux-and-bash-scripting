@@ -1,4 +1,4 @@
-### Exercise 1: Create and manipulate files
+# Exercise 1: Create and manipulate files
 
 ### Create files in different ways
 touch projects/app.py
