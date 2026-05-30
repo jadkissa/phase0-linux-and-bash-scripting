@@ -1,7 +1,6 @@
 # Here's Exercise 6 (Shared Directory with Group Permissions)
 
 ```markdown
-### Exercise 5 — Shared Directory with Group Permissions (Practice)
 
 ### Step 1: Create a group
 
